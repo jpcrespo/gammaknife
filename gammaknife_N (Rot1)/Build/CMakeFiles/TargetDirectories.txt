@@ -1,0 +1,7 @@
+/home/nicolas/Documentos/g_work/gammaknife_Tesis/gammaknife_N (Rot1)/Build/CMakeFiles/install/strip.dir
+/home/nicolas/Documentos/g_work/gammaknife_Tesis/gammaknife_N (Rot1)/Build/CMakeFiles/install/local.dir
+/home/nicolas/Documentos/g_work/gammaknife_Tesis/gammaknife_N (Rot1)/Build/CMakeFiles/install.dir
+/home/nicolas/Documentos/g_work/gammaknife_Tesis/gammaknife_N (Rot1)/Build/CMakeFiles/list_install_components.dir
+/home/nicolas/Documentos/g_work/gammaknife_Tesis/gammaknife_N (Rot1)/Build/CMakeFiles/rebuild_cache.dir
+/home/nicolas/Documentos/g_work/gammaknife_Tesis/gammaknife_N (Rot1)/Build/CMakeFiles/edit_cache.dir
+/home/nicolas/Documentos/g_work/gammaknife_Tesis/gammaknife_N (Rot1)/Build/CMakeFiles/gammaknife.dir
